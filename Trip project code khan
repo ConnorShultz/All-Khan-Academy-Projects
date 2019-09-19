@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+         <style> 
+             .List-of-things-to-do {color: orange; }
+             
+         </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Grand Bahia Principe Mexico!</h1>
+        
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Aerom%C3%A9xico_Connect_E190_XA-GAL_approaching_KJFK.jpg" alt= "White Aeromexico plane heading to Mexico" width= "400">
+     
+    <p class="List-of-things-to-do"> Some things to do at this Resort...  </p>
+    <ul> 
+        <li> Go to the Beach!
+        <li> Visit the Dolphin Pool!
+        <li> Eat at one of 14 delicious excuisite restaurants, all with different themes (mexican, french, italian and so on)!
+        <li> Spend the day at one of the 7 Pools!
+        <li> Go on excursions and visit the mayan ruins or visit the chichen pyramid!
+        <li> Go snorkeling and see the exotic fish!
+    </ul>
+    
+  
+    </body> 
+    
+</html>
