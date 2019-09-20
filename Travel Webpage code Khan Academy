@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+         <style> 
+             .Some-things-to-do {color: red; }
+    
+             body{
+                 background-color :rgb(227, 149, 54); 
+             }
+             
+         </style>
+         
+         <style> 
+             .Ocean {color: blue; }
+             .Trees {color: green; }
+             .Flamingos {color: pink; }
+             .Coatis {color: yellow; }
+         </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Grand Bahia Principe Akumal in Cancun, Mexico!</h1>
+        
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Aerom%C3%A9xico_Connect_E190_XA-GAL_approaching_KJFK.jpg" alt= "White Aeromexico plane heading to Mexico" width= "400">
+    
+    <p> This resort is one of my <strong>all time favorite</strong> resorts to travel too. My family and I have been to <strong>Jamaica, Dominican Republic, and Florida</strong> multiple times, but the service and experience at Grand Bahia Principe Akumal in Mexico has been by far the best. </p>
+  
+    <h2 class="Some-things-to-do"> Here is a <em>small</em> list of some of the things to do at this Resort...  </h2>
+    <ul> 
+        <li> Go to the Beach!
+        <li> Visit the Dolphin Pool!
+        <li> Eat at one of 14 delicious excuisite restaurants, all with different themes (mexican, french, italian and so on)!
+        <li> Swim in one of the 7 massive pools!
+        <li> Go on an excursion and visit some of the famous locations like the mayan ruins or visit the chichen pyramid!
+        <li> Go snorkeling and see the exotic fish!
+        <li> Go to the theatre and watch some of the nightly performances (Michael Jackson show, Magic Show, etc...)!
+        <li> And much more!
+    </ul>
+    
+    <h2 class= "Some-things-to-do"> Some of the things that you will see at this <strong><em>fabulous</em></strong> resort are... </h2>
+    
+    <ul class= "Ocean"> 
+        <li> The Ocean!
+    </ul>
+  <p class= "Ocean"> Who doesn't love the Ocean! It is so <em>calming and relaxing</em> to watch the waves come in and out, and to soak up a little sun and swim is <strong>FUN</strong>! </p>
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/e/e0/Clouds_over_the_Atlantic_Ocean.jpg" alt= "Clear blue water and vue of the Ocean" width= "400">
+ 
+    <ul class= "Trees"> 
+        <li> Palm Trees!
+    </ul>
+    
+    <p class= "Trees"> Palm trees are so cool, especially if you are from an area like Canada where you don't often/never see them! The <em>coolest</em> part is that you can pick coconuts off of them, and the delicious <em>creamy</em> coconut milk that you get out of them is delicious and a <strong>real treat</strong>! </p>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cd/Palm_Trees_in_K%C3%B6yce%C4%9Fiz_-_panoramio.jpg" alt= "Two green palm trees blowing in the wind" width= "400">
+    
+    <ul>
+        <li class= "Flamingos"> Flamingos!
+    </ul>
+    
+    <p class= "Flamingos"> Flamingos are cute pink and white birds that are native to tropic areas. They have extremely long legs, and they are facinating and fun to be around! </p>
+    
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/f/f6/James%27s_Flamingo_mating_ritual.jpg" alt= "Big group of cute pink flamingos in the water" width= "400">
+    
+    <ul class= "Coatis">
+        <li> Coatis!
+    </ul>
+    
+    <p class= "Coatis"> Coatis are native animals in Mexico. Being in the same family as racoons, they are scavengers and they often feed off of ants, but they are the cutest little things ever! </p>
+    
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/8/83/Nasenbaer_Nasua_nasua_Zoo_Augsburg-07.jpg" alt= "Cute coatis walking along a log" width= "400"> 
+    
+    <p> So come and visit Grand Bahia Principe Akumal for a great time! </p>
+    
+    
+    
+    </body>  
+</html>
